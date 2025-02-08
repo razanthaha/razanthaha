@@ -31,6 +31,3 @@ I'm currently working on improving my **coding skills** and exploring how **IT c
 
 🔹 *"Strive for progress, not perfection."* 🚀  
 
-razanthaha/razanthaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
